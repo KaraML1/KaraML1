@@ -13,16 +13,15 @@
           Simulate a computer assembler and architecture to perform basic computer operations such as mathematics, lexical operations, and boolean operations via the manipulation of bits. Made in Java.
 
 ## Education
-ICSI-201 Introduction to Computer Science
-ICSI-210 Discrete Structures
-ICSI-213 Data Structures
-ICSI-311 Principles of Programming Languages
-ICSI-333 System Fundamentals
-ICSI-401 Numerical Methods
-ICSI-404 Computer Architecture
-ICSI-410 Database Systems
-ICSI-435 Artificial Intelligence
-  
-ICSI-521 Discrete Mathematics with Applications
+- ICSI-201 Introduction to Computer Science
+- ICSI-210 Discrete Structures
+- ICSI-213 Data Structures
+- ICSI-311 Principles of Programming Languages
+- ICSI-333 System Fundamentals
+- ICSI-401 Numerical Methods
+- ICSI-404 Computer Architecture
+- ICSI-410 Database Systems
+- ICSI-435 Artificial Intelligence
+- ICSI-521 Discrete Mathematics with Applications
 
 
