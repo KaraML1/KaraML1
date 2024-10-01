@@ -6,7 +6,7 @@
         Reach me at https://www.linkedin.com/in/leo-meurs-a457b6215/
 - 😄 Pronouns: he/him
 
-- ### Key Projects:
+## Key Projects:
 - [Lexical Analysis and Parser for the language AWK](https://github.com/KaraML1/Lexical-Analysis-and-Parser-for-the-language-AWK):
           Interpret code in AWK by lexically analyzing into tokens and parsing into Java actions. Made in Java.
 - [Computer Data Simulator](https://github.com/KaraML1/Computer-Data-Simulator/tree/main):
